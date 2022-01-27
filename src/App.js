@@ -1,17 +1,17 @@
 import logo from './logo.svg';
 import './App.css';
 // import your arrays here
-import { planetNames } from './planet-names';
-import PlanetNameList from './PlanetNameList';
+import { planetNames } from './Planets/planet-names';
+import PlanetNameList from './Planets/PlanetNameList';
 
-import { dogArray } from './dog-array';
-import DogList from './DogList';
+import { dogArray } from './Dogs/dog-array';
+import DogList from './Dogs/DogList';
 
-import { Animals } from './animal-array';
-import AnimalList from './AnimalList';
+import { Animals } from './Animals/animal-array';
+import AnimalList from './Animals/AnimalList';
 
-import { MoviesArray } from './movies-array';
-import MovieList from './MovieList';
+import { MoviesArray } from './Movies/movies-array';
+import MovieList from './Movies/MovieList';
 
 function App() {
   return (
