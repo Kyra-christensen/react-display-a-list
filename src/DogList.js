@@ -1,5 +1,6 @@
 import React from 'react';
-import Dog from './Dog';
+import Dog from './Pet';
+
 export default function DogList(props) {
   return <div className='dogDiv'>
     {
