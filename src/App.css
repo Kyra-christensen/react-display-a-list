@@ -69,3 +69,14 @@ body, #root, .App {
     width: 200px;
     object-fit: cover;
 }
+
+.animal-list {
+    background-color: cornflowerblue;
+}
+
+.animal-item {
+    display: inline-block;
+    flex-direction: row;
+    margin-right: 15px;
+    margin-left:15px;
+}
