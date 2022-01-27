@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 // import your arrays here
 import { planetNames } from './Planets/planet-names';
