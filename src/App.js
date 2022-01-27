@@ -10,6 +10,9 @@ import DogList from './DogList';
 import { Animals } from './animal-array';
 import AnimalList from './AnimalList';
 
+import { MoviesArray } from './movies-array';
+import MovieList from './MovieList';
+
 function App() {
   return (
     <div className="App">
@@ -17,6 +20,7 @@ function App() {
       <PlanetNameList planetNames={planetNames} />
       <DogList dogs={dogArray} />
       <AnimalList animals={Animals} />
+      <MovieList movies={MoviesArray} />
     </div>
   );
 }
