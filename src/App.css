@@ -41,13 +41,31 @@ body, #root, .App {
     transform: rotate(360deg);
   }
 }
+.planet-list{
+    background-color: cadetblue;
+    margin-top: 5px;
+    
+}
 .planetNames {
     display:inline-block;
-    background-color: cadetblue;
-    margin-top: 10px;
 }
 
 .planetNames p {
     margin-left: 5px;
     margin-right: 5px;
+    
+}
+
+.dogDiv {
+   background-color: coral; 
+   display:flex;
+   justify-content: center;
+   align-items: center;
+   
+}
+
+.dogList img {
+    height: 200px;
+    width: 200px;
+    object-fit: cover;
 }
