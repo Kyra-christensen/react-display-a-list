@@ -13,6 +13,7 @@ function App() {
         Render all your lists here. Pass the arrays as props.
       <PlanetNameList planetNames={planetNames} />
       <DogList dogs={dogArray} />
+      
     </div>
   );
 }
