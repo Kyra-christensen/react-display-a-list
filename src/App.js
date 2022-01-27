@@ -5,7 +5,7 @@ import { planetNames } from './planet-names';
 import PlanetNameList from './PlanetNameList';
 
 import { dogArray } from './dog-array';
-import DogList from './DogList.js';
+import DogList from './List';
 
 import { Animals } from './animal-array';
 import AnimalList from './AnimalList';
