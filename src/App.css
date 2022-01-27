@@ -80,3 +80,13 @@ body, #root, .App {
     margin-right: 15px;
     margin-left:15px;
 }
+
+.movie-item {
+    display: inline-block;
+    margin-right: 15px;
+    margin-left:15px;
+}
+
+.movie-div {
+    background-color: crimson;
+}
