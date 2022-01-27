@@ -51,3 +51,13 @@ body, #root, .App {
     margin-left: 5px;
     margin-right: 5px;
 }
+
+.dogDiv {
+   background-color: coral; 
+}
+
+.dogList img {
+    height: 200px;
+    width: 200px;
+    object-fit: cover;
+}
